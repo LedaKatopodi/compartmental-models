@@ -16,4 +16,4 @@ Please make sure that you have [COPASI](http://copasi.org) installed on your com
 
 ## 👟 Walkthrough
 
-The COPASI implementation of the 6-compartment SEIARD model is based on the work of [Zhao and colleagues](10.1186/s40249-020-00735-x). Parameter selection was carried out, as proposed by Zhao et al., based on epidemiological data from Hunan Province, China. 
+The COPASI implementation of the 6-compartment SEIARD model is based on the work of [Zhao and colleagues](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00735-x). Parameter selection was carried out, as proposed by Zhao et al., based on epidemiological data from Hunan Province, China. 
